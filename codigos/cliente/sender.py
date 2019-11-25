@@ -14,7 +14,7 @@ for files in dirs:
         codigo = base64.b64encode(img_file.read())
     data[files] = codigo
 
-r = requests.get('http://34.95.155.151/index.php', json = data)
+r = requests.get('http://34.95.155.151/index.php', json=data)
 
 for files in dirs:
     os.remove("imagens/"+files)
