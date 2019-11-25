@@ -1,0 +1,30 @@
+Numero do Animal: 1
+Local do Animal: portao1
+Dia: 25/11/2019
+Hora: 14:24:30
+
+Numero do Animal: 2
+Local do Animal: portao1
+Dia: 25/11/2019
+Hora: 15:4:30
+
+Numero do Animal: 3
+Local do Animal: portao2
+Dia: 25/11/2019
+Hora: 14:24:30
+
+Numero do Animal: 4
+Local do Animal: bebedouro
+Dia: 25/11/2019
+Hora: 14:24:30
+
+Numero do Animal: 5
+Local do Animal: portao3
+Dia: 25/11/2019
+Hora: 14:50:2
+
+Numero do Animal: 6
+Local do Animal: bebedouro
+Dia: 25/11/2019
+Hora: 16:54:30
+
