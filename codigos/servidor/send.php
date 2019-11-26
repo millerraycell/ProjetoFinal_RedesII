@@ -1,5 +1,5 @@
 <?php
 $data = file_get_contents('resultado.txt');
 
-echo $datadata
+echo $data
 ?>
